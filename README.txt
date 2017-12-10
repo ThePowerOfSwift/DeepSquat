@@ -1,4 +1,4 @@
-DeepSquat is a project that I and another team member (Seyoon Ragavan) worked on for Hack Princeton Fall 2017. It is an app that allows the user to take a video of their squat, and analyzes six specific attributes of their squat technique using deep learning. We were recognized as "Best Health/Fitness Hack" and named a Finalist (one of the Top 7 projects).
+DeepSquat is a project that I and another team member (Seyoon Ragavan) worked on for Hack Princeton Fall 2017. It is an app that allows the user to take a video of their squat, and analyzes six specific attributes of their squat technique using deep learning. We were recognized as "Best Health/Fitness Hack" and named a Finalist (one of the Top 7 projects). Our entry can be found here: https://devpost.com/software/deepsquat-deep-learning-tells-you-how-to-squat
 
 Acknowledgement of people whose public code (published online) was used:
 
